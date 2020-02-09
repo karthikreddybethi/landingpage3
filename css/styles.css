@@ -29,6 +29,9 @@ button {
     left: 100px;
     top: 25px;
 }
+.image2 img {
+    width: 90%;
+}
 .header {
     margin:0;
     line-height: 0;
